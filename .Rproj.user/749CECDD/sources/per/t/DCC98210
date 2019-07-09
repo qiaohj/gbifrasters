@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561033903900.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "759667957",
+    "id" : "DCC98210",
+    "lastKnownWriteTime" : 1562589660,
+    "last_content_update" : 1562589660923,
+    "path" : "C:/Users/ftw712/Desktop/gbifrasters/R/getData.R",
+    "project_path" : "R/getData.R",
+    "properties" : {
+        "cursorPosition" : "44,0",
+        "scrollLine" : "24",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

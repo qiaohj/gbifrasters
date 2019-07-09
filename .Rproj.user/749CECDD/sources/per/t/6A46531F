@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561105573183.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "199021537",
+    "id" : "6A46531F",
+    "lastKnownWriteTime" : 1561459137,
+    "last_content_update" : 1561459137137,
+    "path" : "C:/Users/ftw712/Desktop/gbifrasters/R/getOccCountLatTable.R",
+    "project_path" : "R/getOccCountLatTable.R",
+    "properties" : {
+        "cursorPosition" : "2,49",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 15,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

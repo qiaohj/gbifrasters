@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561965461733.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "466149107",
+    "id" : "291AF93C",
+    "lastKnownWriteTime" : 1562066905,
+    "last_content_update" : 1562066905515,
+    "path" : "C:/Users/ftw712/Desktop/gbifrasters/R/plotZoomMap.R",
+    "project_path" : "R/plotZoomMap.R",
+    "properties" : {
+        "cursorPosition" : "17,41",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 20,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

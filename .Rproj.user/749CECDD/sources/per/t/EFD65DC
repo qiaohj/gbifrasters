@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561027010441.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2278348465",
+    "id" : "EFD65DC",
+    "lastKnownWriteTime" : 1561038462,
+    "last_content_update" : 1561038462463,
+    "path" : "C:/Users/ftw712/Desktop/gbifrasters/R/getSpCountsByCell.R",
+    "project_path" : "R/getSpCountsByCell.R",
+    "properties" : {
+        "cursorPosition" : "11,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

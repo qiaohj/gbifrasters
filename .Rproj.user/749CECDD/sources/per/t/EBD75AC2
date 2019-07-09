@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561723030340.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3504158355",
+    "id" : "EBD75AC2",
+    "lastKnownWriteTime" : 1562596536,
+    "last_content_update" : 1562596536149,
+    "path" : "C:/Users/ftw712/Desktop/gbifrasters/R/plotPolyMap.R",
+    "project_path" : "R/plotPolyMap.R",
+    "properties" : {
+        "cursorPosition" : "37,32",
+        "scrollLine" : "47",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 19,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

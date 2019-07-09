@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561029722786.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4156542817",
+    "id" : "4C266C2",
+    "lastKnownWriteTime" : 1561366830,
+    "last_content_update" : 1561366830334,
+    "path" : "C:/Users/ftw712/Desktop/gbifrasters/R/plotWireFrame.R",
+    "project_path" : "R/plotWireFrame.R",
+    "properties" : {
+        "cursorPosition" : "15,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

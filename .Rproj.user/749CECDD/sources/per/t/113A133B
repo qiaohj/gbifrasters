@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561102332013.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2728656512",
+    "id" : "113A133B",
+    "lastKnownWriteTime" : 1562070358,
+    "last_content_update" : 1562070358796,
+    "path" : "C:/Users/ftw712/Desktop/gbifrasters/R/getSpCountLatTable.R",
+    "project_path" : "R/getSpCountLatTable.R",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 14,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

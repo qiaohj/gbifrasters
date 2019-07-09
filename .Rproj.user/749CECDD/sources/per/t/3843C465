@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561979552875.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2514684637",
+    "id" : "3843C465",
+    "lastKnownWriteTime" : 1561979642,
+    "last_content_update" : 1561979642056,
+    "path" : "C:/Users/ftw712/Desktop/gbifrasters/R/plotEffortOcc.R",
+    "project_path" : "R/plotEffortOcc.R",
+    "properties" : {
+        "cursorPosition" : "61,13",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 21,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561029044755.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1509805851",
+    "id" : "A0FBD147",
+    "lastKnownWriteTime" : 1561645577,
+    "last_content_update" : 1561645577189,
+    "path" : "C:/Users/ftw712/Desktop/gbifrasters/R/plotSpCounts.R",
+    "project_path" : "R/plotSpCounts.R",
+    "properties" : {
+        "cursorPosition" : "50,32",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
