@@ -41,7 +41,7 @@ plotPolyMap = function(grid,
                        legend_text_size=12,
                        numBreaks=6) { # a data.frame of taxonkey,count,cell
 
-  if(variable="spCount")
+  if(variable=="spCount")
 
   grid$var = grid[,variable] # rename variable
 
